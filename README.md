@@ -25,3 +25,4 @@ Please follow me on LinkedIn: https://www.linkedin.com/in/priya123mohan
 [lil-course-url]: https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHIPR3VAGQGiQ/learning-public-crop_675_1200/0/1713466120470?e=2147483647&v=beta&t=on84QImWhMSkQjBq4E8OiW9BuJeJ7vP_Np1ZmCkhtzo
 
+Video: https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/predicting-price-based-on-model-evaluation-results?resume=false&u=83469282
